@@ -1,5 +1,5 @@
 # Machine-Learning
-This repository contains various machine learning projects and Assignments I worked during my Post graduate Studies.  
+This repository contains various machine learning projects and Assignments I worked on during my Post graduate Studies.  
 It starts with introduction to various libraries and their installation.  
 Basic exploration of few Machine Learning Libraries that are available in Python like Pandas, NumPy, SKLearn, Seaborn, Theano, SciPy, PyTorch, Keras, TensorFlow.  
 Exploration of certain subparts of the module sklearn - train_test_split, make_classification, make_regression, DummyClassifier and DummyRegressor.  
